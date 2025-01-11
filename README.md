@@ -1,5 +1,3 @@
-# Instagram-Reach-Forecasting-Using-Python
-
 # README: Instagram Reach Forecasting Using SARIMAX
 
 ## Overview
